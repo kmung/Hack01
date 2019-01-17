@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("David Scalzo, Khawm Mung\n");
+  printf("David Scalzo, Math\n");
 
   return 0;
 }
